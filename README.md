@@ -3,13 +3,11 @@
 
 ---
 ### Find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](YOUR_TABLEAU_URL)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](YOUR_POWERBI_URL)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](YOUR_MEDIUM_URL)
-[![Email](https://img.shields.io/badge/Email-168DE2?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lolita-mechkauskayte-67752a110/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Kappelia)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/lolita.mechkauskayte/vizzes)
+[![Telegram](https://img.shields.io/badge/Telegram-12100E?logo=telegram&logoColor=blue)](https://t.me/Kappelia)
+[![Email](https://img.shields.io/badge/Email-168DE2?logo=gmail&logoColor=white)](mailto:l.mechkauskayte@outlook.com)
 
 ---
 
