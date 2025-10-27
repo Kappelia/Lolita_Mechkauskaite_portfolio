@@ -29,6 +29,7 @@ Skilled in using cloud technologies and BI tools to build transparent and effici
 - Implemented **load monitoring** using SQL-based logging and validation.  
 - Developed **incremental and full load** logic.  
 - Presented the solution during the final project defense as team speaker.
+
   ##The pipeline schema ![](img/pipeline.png) | ## Dataflow ![](img/data_flow.png)
 
 **Tech stack:** `Azure Data Factory`, `Microsoft Fabric`, `Delta Lake`, `SQL`, `Power BI`, `Python`
