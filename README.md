@@ -1,12 +1,6 @@
-# 💼 Junior Data Analyst — Lolita Mechkauskaite
+# Hi, my name is Lolita Mechkauskaite
+# 💼 I`m Junior Data Analyst 
 
-## 📍 Contact Information
-| 📫 | **Details** |
-|----|-------------|
-| **Location** | Kharkiv, Ukraine |
-| **Email** | [your.email@example.com](mailto:your.email@example.com) |
-| **LinkedIn** | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
-| **GitHub** | [github.com/yourusername](https://github.com/yourusername) |
 
 ---
 
@@ -35,6 +29,7 @@ Skilled in using cloud technologies and BI tools to build transparent and effici
 - Implemented **load monitoring** using SQL-based logging and validation.  
 - Developed **incremental and full load** logic.  
 - Presented the solution during the final project defense as team speaker.
+  ##The pipeline schema ![](img/pipeline.png) | ## Dataflow ![](img/data_flow.png)
 
 **Tech stack:** `Azure Data Factory`, `Microsoft Fabric`, `Delta Lake`, `SQL`, `Power BI`, `Python`
 
